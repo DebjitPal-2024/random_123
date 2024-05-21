@@ -1,1 +1,3 @@
 # one feature added
+# one bug is fixed on bugfix_4 branch
+# no. 2 bug is fixed on bugfix_3 branch

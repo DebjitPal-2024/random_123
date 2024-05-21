@@ -1,2 +1,6 @@
 # two feature added
+<<<<<<< HEAD
 # two bug is fixed
+=======
+# one big is fixed
+>>>>>>> bugfix_1

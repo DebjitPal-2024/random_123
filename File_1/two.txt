@@ -10,3 +10,5 @@
 # one big is fixed
 # password changed from 123 to 456
 >>>>>>> bugfix_2
+
+Made change in github.com

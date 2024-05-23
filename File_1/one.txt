@@ -1,5 +1,6 @@
 # one feature added
 <<<<<<< HEAD
+<<<<<<< HEAD
 # no. 3 bug is fixed on bugfix_4 branch"
 =======
 # one bug is fixed on bugfix_4 branch
@@ -7,3 +8,7 @@
 >>>>>>> bugfix_3
 
 new bugfix after remote git added to vs code
+=======
+# Old Password = '1234'
+# New Password = '5678'
+>>>>>>> bugfix_1

@@ -12,3 +12,5 @@ new bugfix after remote git added to vs code
 # Old Password = '1234'
 # New Password = '5678'
 >>>>>>> bugfix_1
+
+Make some change here to check the fetch from git repo to local

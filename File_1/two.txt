@@ -1,6 +1,12 @@
 # two feature added
 <<<<<<< HEAD
+<<<<<<< HEAD
 # two bug is fixed
 =======
 # one big is fixed
 >>>>>>> bugfix_1
+=======
+# two bug is fixed
+# one big is fixed
+# password changed from 123 to 456
+>>>>>>> bugfix_2

@@ -12,3 +12,5 @@
 >>>>>>> bugfix_2
 
 Made change in github.com
+
+second change in github to learn fetch

@@ -14,3 +14,5 @@ new bugfix after remote git added to vs code
 >>>>>>> bugfix_1
 
 Make some change here to check the fetch from git repo to local
+
+Again change to learn fetch from master in github to remote master in vs code
